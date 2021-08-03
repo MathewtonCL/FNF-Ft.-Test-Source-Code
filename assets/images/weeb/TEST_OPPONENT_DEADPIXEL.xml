@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TEST_OPPONENT_DEADPIXEL.png">
+	<!-- Created with Pixel Art Studio and Notepad -->
+	<!-- Too stubborn to use Adobe Animate -_- -->
+	<SubTexture name="Test IDLE0000" x="0" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0001" x="0" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0002" x="0" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0003" x="0" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0004" x="0" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0005" x="0" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0006" x="640" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0007" x="640" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0008" x="1280" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0009" x="1280" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0010" x="1920" y="0" width="640" height="0" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0011" x="1920" y="0" width="640" height="0" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0012" x="2560" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test IDLE0013" x="2560" y="0" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0000" x="0" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0001" x="0" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0002" x="640" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0003" x="1280" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0004" x="1280" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0005" x="1280" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0006" x="1280" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0007" x="1280" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0008" x="1280" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0009" x="1280" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0010" x="1280" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0011" x="1280" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0012" x="1280" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0013" x="640" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing LEFT0014" x="640" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0000" x="1920" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0001" x="1920" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0002" x="2560" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0003" x="0" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0004" x="0" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0005" x="0" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0006" x="0" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0007" x="0" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0008" x="0" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0009" x="0" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0010" x="0" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0011" x="0" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0012" x="0" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0013" x="2560" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing DOWN0014" x="2560" y="640" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0000" x="640" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0001" x="640" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0002" x="1280" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0003" x="1920" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0004" x="1920" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0005" x="1920" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0006" x="1920" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0007" x="1920" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0008" x="1920" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0009" x="1920" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0010" x="1920" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0011" x="1920" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0012" x="1920" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0013" x="1280" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing UP0014" x="1280" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0000" x="2560" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0001" x="2560" y="1280" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0002" x="0" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0003" x="640" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0004" x="640" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0005" x="640" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0006" x="640" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0007" x="640" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0008" x="640" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0009" x="640" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0010" x="640" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0011" x="640" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0012" x="640" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0013" x="0" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+	<SubTexture name="Test Sing RIGHT0014" x="0" y="1920" width="640" height="640" frameX="100" frameY="-200" frameWidth="700" frameHeight="1200"/>
+</TextureAtlas>
