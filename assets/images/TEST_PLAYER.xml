@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TEST_PLAYER.png">
+	<!-- Created with Pixel Art Studio and Notepad -->
+	<!-- Too stubborn to use Adobe Animate -_- -->
+	<SubTexture name="Test IDLE0000" x="160" y="160" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0001" x="160" y="160" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0002" x="160" y="160" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0003" x="160" y="160" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0004" x="160" y="160" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0005" x="160" y="160" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0006" x="760" y="200" width="400" height="280" frameX="-60" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0007" x="760" y="200" width="400" height="280" frameX="-60" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0008" x="1420" y="180" width="360" height="300" frameX="-80" frameY="-70" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0009" x="1420" y="180" width="360" height="300" frameX="-80" frameY="-70" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0010" x="2070" y="170" width="340" height="310" frameX="-90" frameY="-60" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0011" x="2070" y="170" width="340" height="310" frameX="-90" frameY="-60" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0012" x="2715" y="165" width="330" height="315" frameX="-95" frameY="-55" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test IDLE0013" x="2715" y="165" width="330" height="315" frameX="-95" frameY="-55" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0000" x="3320" y="160" width="410" height="340" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0001" x="3320" y="160" width="410" height="340" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0002" x="3950" y="160" width="430" height="340" frameX="-50" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0003" x="4580" y="160" width="450" height="340" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0004" x="4580" y="160" width="450" height="340" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0005" x="4580" y="160" width="450" height="340" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0006" x="4580" y="160" width="450" height="340" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0007" x="4580" y="160" width="450" height="340" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0008" x="4580" y="160" width="450" height="340" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0009" x="4580" y="160" width="450" height="340" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0010" x="4580" y="160" width="450" height="340" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0011" x="4580" y="160" width="450" height="340" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0012" x="4580" y="160" width="450" height="340" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0013" x="3950" y="160" width="430" height="340" frameX="-50" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT SING0014" x="3950" y="160" width="430" height="340" frameX="-50" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0000" x="100" y="800" width="440" height="350" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0001" x="100" y="800" width="440" height="350" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0002" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0003" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0004" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0005" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0006" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0007" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0008" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0009" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0010" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0011" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0012" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0013" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test LEFT MISS0014" x="740" y="800" width="430" height="360" frameX="-40" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0000" x="1440" y="840" width="340" height="320" frameX="-100" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0001" x="1440" y="840" width="340" height="320" frameX="-100" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0002" x="2080" y="880" width="340" height="310" frameX="-100" frameY="-130" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0003" x="2720" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0004" x="2720" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0005" x="2720" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0006" x="2720" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0007" x="2720" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0008" x="2720" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0009" x="2720" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0010" x="2720" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0011" x="2720" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0012" x="2720" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0013" x="2080" y="880" width="340" height="310" frameX="-100" frameY="-130" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN SING0014" x="2080" y="880" width="340" height="310" frameX="-100" frameY="-130" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0001" x="3360" y="920" width="330" height="290" frameX="-100" frameY="-170" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0002" x="3360" y="920" width="330" height="290" frameX="-100" frameY="-170" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0003" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0004" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0005" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0006" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0007" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0008" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0009" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0010" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0011" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0012" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0013" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DOWN MISS0014" x="4000" y="900" width="340" height="300" frameX="-100" frameY="-150" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0000" x="4640" y="790" width="340" height="330" frameX="-100" frameY="-40" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0001" x="4640" y="790" width="340" height="330" frameX="-100" frameY="-40" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0002" x="160" y="1420" width="340" height="340" frameX="-100" frameY="-30" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0003" x="800" y="1410" width="340" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0004" x="800" y="1410" width="340" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0005" x="800" y="1410" width="340" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0006" x="800" y="1410" width="340" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0007" x="800" y="1410" width="340" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0008" x="800" y="1410" width="340" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0009" x="800" y="1410" width="340" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0010" x="800" y="1410" width="340" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0011" x="800" y="1410" width="340" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0012" x="800" y="1410" width="340" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0013" x="160" y="1420" width="340" height="340" frameX="-100" frameY="-30" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP SING0014" x="160" y="1420" width="340" height="340" frameX="-100" frameY="-30" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0000" x="1440" y="1400" width="340" height="360" frameX="-100" frameY="-10" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0001" x="1440" y="1400" width="340" height="360" frameX="-100" frameY="-10" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0002" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0003" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0004" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0005" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0006" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0007" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0008" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0009" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0010" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0011" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0012" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0013" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UP MISS0014" x="2080" y="1410" width="350" height="350" frameX="-100" frameY="-20" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0000" x="2700" y="1440" width="390" height="340" frameX="-80" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0001" x="2700" y="1440" width="390" height="340" frameX="-80" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0002" x="3360" y="1440" width="380" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0003" x="4000" y="1440" width="390" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0004" x="4000" y="1440" width="390" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0005" x="4000" y="1440" width="390" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0006" x="4000" y="1440" width="390" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0007" x="4000" y="1440" width="390" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0008" x="4000" y="1440" width="390" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0009" x="4000" y="1440" width="390" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0010" x="4000" y="1440" width="390" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0011" x="4000" y="1440" width="390" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0012" x="4000" y="1440" width="390" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0013" x="3360" y="1440" width="380" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT SING0014" x="3360" y="1440" width="380" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0000" x="4640" y="1440" width="400" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0001" x="4640" y="1440" width="400" height="340" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0002" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0003" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0004" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0005" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0006" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0007" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0008" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0009" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0010" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0011" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0012" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0013" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test RIGHT MISS0014" x="160" y="2080" width="390" height="350" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0000" x="800" y="2080" width="350" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0001" x="800" y="2080" width="350" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0002" x="1440" y="2080" width="330" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0003" x="1440" y="2080" width="330" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0004" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0005" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0006" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0007" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0008" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0009" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0010" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0011" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0012" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0013" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0014" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0015" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0016" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0017" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0018" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0019" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0020" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0021" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0022" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0023" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0024" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test HEY0025" x="2080" y="2080" width="320" height="320" frameX="-100" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test SHAKING0000" x="2700" y="2080" width="360" height="320" frameX="-80" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test SHAKING0001" x="3335" y="2080" width="360" height="320" frameX="-75" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test SHAKING0002" x="3980" y="2080" width="360" height="320" frameX="-80" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test SHAKING0003" x="4625" y="2080" width="360" height="320" frameX="-85" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test SHAKING0004" x="140" y="2720" width="360" height="320" frameX="-80" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0000" x="760" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0001" x="760" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0002" x="760" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0003" x="760" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0004" x="760" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0005" x="760" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0006" x="760" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0007" x="760" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0008" x="760" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0009" x="760" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0010" x="1400" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0011" x="1400" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0012" x="2040" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0013" x="2040" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0014" x="2680" y="2720" width="360" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0015" x="2680" y="2720" width="360" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0016" x="3320" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0017" x="3320" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0018" x="3960" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0019" x="3960" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0020" x="3960" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0021" x="3960" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0022" x="3960" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0023" x="3960" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0024" x="4600" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0025" x="4600" y="2720" width="400" height="320" frameX="-60" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0026" x="85" y="3360" width="470" height="320" frameX="-25" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0027" x="85" y="3360" width="470" height="320" frameX="-25" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0028" x="720" y="3400" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0029" x="720" y="3400" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0030" x="1360" y="3400" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0031" x="1360" y="3400" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0032" x="2000" y="3400" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0033" x="2000" y="3400" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0034" x="2640" y="3400" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0035" x="2640" y="3400" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0036" x="2640" y="3400" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DIES0037" x="2640" y="3400" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0000" x="3280" y="3400" width="520" height="320" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0001" x="3280" y="3400" width="520" height="320" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0002" x="3920" y="3400" width="500" height="300" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0003" x="3920" y="3400" width="500" height="300" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0004" x="3920" y="3400" width="500" height="300" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0005" x="3920" y="3400" width="500" height="300" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0006" x="4560" y="3400" width="490" height="290" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0007" x="4560" y="3400" width="490" height="290" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0008" x="4560" y="3400" width="490" height="290" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0009" x="4560" y="3400" width="490" height="290" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0010" x="80" y="4040" width="485" height="285" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0011" x="80" y="4040" width="485" height="285" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0012" x="80" y="4040" width="485" height="285" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0013" x="80" y="4040" width="485" height="285" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0014" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0015" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0016" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0017" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0018" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0019" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0020" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0021" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0022" x="3280" y="3400" width="520" height="320" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0023" x="3280" y="3400" width="520" height="320" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0024" x="3920" y="3400" width="500" height="300" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0025" x="3920" y="3400" width="500" height="300" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0026" x="3920" y="3400" width="500" height="300" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0027" x="3920" y="3400" width="500" height="300" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0028" x="4560" y="3400" width="490" height="290" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0029" x="4560" y="3400" width="490" height="290" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0030" x="4560" y="3400" width="490" height="290" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0031" x="4560" y="3400" width="490" height="290" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0032" x="80" y="4040" width="485" height="285" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0033" x="80" y="4040" width="485" height="285" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0034" x="80" y="4040" width="485" height="285" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0035" x="80" y="4040" width="485" height="285" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0036" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0037" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0038" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0039" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0040" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0041" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0042" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test DEATH LOOP0043" x="720" y="4040" width="480" height="280" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0000" x="1360" y="4040" width="500" height="300" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0001" x="1360" y="4040" width="500" height="300" frameX="-20" frameY="-90" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0002" x="2000" y="4020" width="490" height="310" frameX="-20" frameY="-70" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0003" x="2000" y="4020" width="490" height="310" frameX="-20" frameY="-70" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0004" x="2640" y="4010" width="485" height="310" frameX="-20" frameY="-60" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0005" x="2640" y="4010" width="485" height="310" frameX="-20" frameY="-60" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0006" x="3280" y="4005" width="480" height="315" frameX="-20" frameY="-55" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0007" x="3280" y="4005" width="480" height="315" frameX="-20" frameY="-55" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0008" x="3920" y="4000" width="480" height="320" frameX="-20" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0009" x="3920" y="4000" width="480" height="320" frameX="-20" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0010" x="3920" y="4000" width="480" height="320" frameX="-20" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0011" x="3920" y="4000" width="480" height="320" frameX="-20" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0012" x="3920" y="4000" width="480" height="320" frameX="-20" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0013" x="3920" y="4000" width="480" height="320" frameX="-20" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0014" x="3920" y="4000" width="480" height="320" frameX="-20" frameY="-50" frameWidth="500" frameHeight="400"/>
+	<SubTexture name="Test UNDEAD0015" x="3920" y="4000" width="480" height="320" frameX="-20" frameY="-50" frameWidth="500" frameHeight="400"/>
+</TextureAtlas>
