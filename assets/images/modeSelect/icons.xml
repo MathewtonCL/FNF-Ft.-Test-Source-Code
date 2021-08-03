@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icons.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="reg bf0000" x="0" y="0" width="150" height="150" frameX="120" frameY="130" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="test bf0000" x="150" y="0" width="150" height="150" frameX="115" frameY="115" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

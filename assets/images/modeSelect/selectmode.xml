@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="selectmode.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="regmode instance 10000" x="0" y="0" width="894" height="670" frameX="450" frameY="315" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="regmodeselect instance 10000" x="0" y="0" width="894" height="670" frameX="450" frameY="315" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="testmode instance 10000" x="895" y="0" width="894" height="670" frameX="450" frameY="315" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="testmodeselect instance 10000" x="895" y="0" width="894" height="670" frameX="435" frameY="273" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>
