@@ -1,0 +1,182 @@
+*21 June 2021
++v0.0.0.0001
+-Added 3 new characters: 'test-opponent-1,' 'test-opponent-5,' and 'test-opponent-6,' for size comparison.
+-3 new characters only accesible via debug menu.
+
++v0.0.0.0002
+-Removed 'test-opponent-1' and 'test-opponent-6.' Renamed 'test-opponent-5' to 'test-opponent.'
+-Adjusted some of the animation timing.
+
++v0.0.0.0002(II)
+-Adjusted the animations for better timing, with limited success.
+-Fixed the down animation (sometimes it would go up at the very end; this was due to a numerical error in the .xml file).
+-Transfered the new .xml to source code.
+
++v0.0.0.0002(III)
+-Reset the x- and y-frame variables to zero, set frame width and height to 400 for the time being.
+-Adjusted the frame variables to better fit Test. Will adjust for offsets later.
+-Transfered the new .xml to source code.
+
++v0.0.0.0002(IV)
+-Listing down frame x,y,w,and h variables respectively for future reference: -150, -400, 700, 1100.
+-Adjusted the animation offsets. Left, down, and right require some toggling.
+-Corrected the left and right animation offsets.
+-Corrected the down animation offset.
+-Transfered the new .xml to source code.
+
++v0.0.5
+-The same thing as the final version of v0.0.0002, but properly compiled from the start.
+
++v0.0.5.0001
+-Sent the first draft of the 'test-player' into the game. Several issues need correcting:
+--The offsets require more adjustment than previously expected (noted for the future).
+--Left notes registering as down notes, needs to be addressed. Right notes (except for misses) load as left notes.
+--Death animations aren't loading. 'HEY!' animation is also not responsive.
+--The shaking animation, does work, however, which is appreciated.
+-While the assets appear to have been ported, the lack of success makes it clear that work must be done.
+
++v0.0.5.0002
+-Corrected a text error in the Character.hx source code which caused some of the earlier issues.
+-Left and right are still mistakenly swapped, but left no longer goes down.
+-'HEY!' works, Death animations are still MIA.
+-Will address the remaining issues via the .xml ... right after doing a quick source code sweep.
+-Source code seems clear, will be using the .xml to resolve all further issues. First up: sprite swap.
+
+*22 June 2021
++v0.0.5.0003
+-Pulled an epic gamer move and fixed the note swap problem by simply swapping their names. Did not do the same to the misses as they were okay.
+-Will address the lack of Death Anims later; for now, moving on to fixing the offsets.
+-Not a build update, but I renamed all the Build versions to fit with the revised release plan. NOW onto offsets.
+
+*23 June 2021
++v0.0.5.0003 (Cont.)
+-Fixed the idle offsets to test the calculations. Moving on to the others.
+-Adjusted all necessary offsets. Now working on what's wrong with the death sprites.
+-Holding off on Death Sprite fixes for the next test build. Might also work on optimizing arrown animations for test-player.
+-Transfered the new .xml to source code.
+
++v0.0.5.0004
+-Managed to figure out how to perform the Death Animations (thanks, AsswipeCarl & luRaichu).
+-Adjusted the death animations for better timing (mostly the death and the loop; the retry was fine).
+-Transfered the new .xml to source code.
+-Will probably work on player note holding later; gonna remove "Test.hx" from the source code for now.
+
++v0.1.0
+-Re-compiled everything from the ground up.
+-Removed the "Test.hx" file.
+
++v0.1.0.0001
+-Successfully added 'test-opponent-car'. Doesn't look like any further fine-tuning is needed.
+
+*24 June 2021
++v0.1.0.0002
+-Added the 'test-opponent-christmas' and 'test-opponent-christmas-red' characters, but some fine-tuning needs to happen:
+--Check the .xml for 'test-opponent-christmas' for errors in display registry.
+--Adjust the positions for 'test-opponent-christmas-red', maybe consider reworking the animation.
+
+*30 June 2021
++v0.1.0.0002 (II)
+-Recompiled everything from the ground up to better suit the version; renamed various areas of the .xml and adjusted a numerical error.
+--'test-opponent-christmas' is now almost complete. Now to address the down animation issue...
+-Fixed the numerical error that caused the regular down animation to hover. 'test-opponent-christmas' is now complete.
+-Adjusted 'test-opponent-christmas-red''s positioning to a satisfactory degree. Whoo!
+-Transfered the new .xmls to source code.
+
+*1 July 2021
++v0.1.0.0003
+-Added the 'test-opponent-pixel' and 'test-opponent-deadpixel' characters; some fixings are required:
+--Adjusting '-pixel''s position only slightly; everything else seems to translate well.
+--Figure out what's going on with '-deadpixel'; we might have another Week 5 Incident on our hands.
+-Also look into fixing bf-pixel's lost death animation.
+-Adjusted 'test-opponent-pixel''s positioning.
+-Adjusted 'test-opponent-deadpixel''s positioning. Luckily, the glitching from earlier didn't persist.
+-Transfered the new .xmls to source code.
+
+*2 July 2021
++v0.1.0.0004
+-Hasn't been compiled yet, but masegovia on Discord has helped me fix the lost music issue for pixel BF.
+
+*11 July 2021
++v0.1.0.0004
+-Ultimately caved and added the 'bf-' in front of the playable Test.
+-On that note, renamed 'test-player' into 'bf-test', and renamed all 'test-opponent's to just 'test' with their respective descriptors.
+-Making Test a BF also seems to have resolved the note swap issue from an earlier build... had to swap them back to normal though...
+-Recompiled with the death sound fix from earlier. Everything seems to be in working order.
+-...if a patch not relying on renaming all assets to 'bf-' comes up, consider implementing it.
+
+*12 July 2021
++v0.1.0.0005
+-Added 'bf-test''s car, christmas, and pixel variants to the game.
+-Fixed a bug in the source code for christmas and pixel Test that would cause the game to close down upon their debug menu selection.
+-Adjusted 'bf-test-pixel''s placement in the .xml. Corrected an error in the spritesheet, and adjusted his death sprite positions.
+-Transfered the new .xml and the new spritesheet to the source code.
+
++v0.2.0
+-The same thing as v0.1.0.0005, recompiled from the ground up.
+
+*22 July 2021
++v0.2.0.0001
+-With some help from @gedehari on Discord, managed to FINALLY create a build with the Minus character select assets.
+-Bad news: Week 6 won't function on story mode, and some tweaking to the GameOverSubstate file will need to be done again...
+-Next step is some minor overhauls...
+
+*23 July 2021
++v0.2.0.0002
+-Managed to make a mostly functional build with more personalized assets in the Character Select and the Main Menu background.
+-Only issues so far are death animation syncing for some of the variants and some offset issues from Test. Will fix the later rn...
+-Fixed the CS Test idle offset, still need to finish the select offset and correct the story menu portrait.
+-Fixed a coloring issue with the CS on Test's side. Also readjusted the CS icon positions. Will do more later.
+-Finished the remaining offset fixes on story mode and for the HEY! anims for CS Test and Story Mode.
+-Now onto Discord to fix the Death anims...
+
+*24 July 2021
++v0.2.0.0002 (Cont.)
+-Finally figured out how to code the custom death anims (thanks to Daim and masegovia on Discord for helping me through the process).
+-Now I can figure out how to set up the Vs Test thing... assuming I wanna do that... Need a quick break first.
+-Also forgot to mention this, but you can play Week 6 now.
+
+-Mid-update: Added the logo bumper. Not putting it into a full build for now. Planning on working on the new Story Mode stuff later.
+
+*26 July 2021
++v0.2.0.0003
+-Built a barebones setup for the future builds of Test-exclusive Story Mode (and Freeplay versions). Just need to fix the Mode Menu offsets...
+-Fixed the Mode Menu offsets, removed the overhead text because it felt out of place.
+-To clarify, the reason this version is barebones is because right now, you can only:
+--See a grey background instead of the usual yellow in Story Mode (characters are still normal).*
+--Play against default Test only in Freeplay Mode.
+*-Another problem I discovered; dying in Test Story Mode sends you back to default mode. Need to fix.
+-Fixed the Story Mode switchback error. Now to move on to v0.2.0.0004 to flesh out both modes a bit more...
+
+-Mid-update. Got Freeplay mode to show different Tests. Might tackle some Story Mode bits now.
+
+*27 July 2021
++v0.2.0.0004
+-Created separate source code channels for Test Story Mode so all the mod stuff can go there.
+-Added in new Test Story Mode animations for the antagonists. Also gave the weeks new titles.
+-Made the Test Story Mode feature Test exclusively (+his variants).
+-Made sure the end of a song would send the player back to the right menu.
+-All that leaves is... the teaser Week. *Gulp*
+
++v0.3.0
+-Same thing as the last version, since nothing else is required. Last version before v0.5.0 for the Demo release.
+-Scratch that, just fixed an error where completely a Test Story Mode week normally would have led to the default Story Mode Menu. Now it's done.
+
+*28 July 2021
++v0.3.0.0001
+-Added in the Test song, and charted for all 3 difficulties.
+-Gave the Test Week in Story Mode a placeholder custom week sprite.
+-Added the Test song into Freeplay (though current placement is less than ideal...).
+-The next build should fix some minor story mode stuff, and the whole Freeplay incident.
+
+*29 July 2021
++v0.3.0.0002
+-Fixed the Test in Freeplay issue.
+-Added customs Week 6 sprites for Test as Senpai or as BF.
+-Added a custom Week 6 sprite for Test as Spirit.
+-Added custom dialogue.
+-Changed the "Friday Night Funkin" intro text to "FNF Ft Test Demo"
+-Added custom intro text. Not sure if it'll show up tho.
+-Fixed an error with BF's icons.
+
++v0.5.0
+-Guess it's time to make it official...
